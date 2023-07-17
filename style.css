@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+.root{
+    width: 300px;
+    height: 250px;
+    border: 2px solid black;
+    margin-left:80vh;
+    margin-top: 30vh;
+    background-color: red;
+    border-radius: 25px;
+   
+}
+
+#heading{
+    color: white;
+    font-family: 'Dancing Script';
+    font-weight: bold;
+    font-size: 55px;
+    margin-left: 40px;
+
+}
+
+
+#message{
+    color: white;
+    margin-left: 50px;
+}
+
+#btn{
+    border-radius: 8px;
+    background-color:white;
+    color: red;
+    margin-left: 90px;
+    text-shadow: 5px;
+}
+
